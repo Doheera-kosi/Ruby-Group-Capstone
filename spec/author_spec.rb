@@ -2,7 +2,7 @@ require_relative '../classes/author'
 
 describe Author do
   context 'When testing the Author class' do
-    it 'Should return an object of the class Author' do
+    it 'Should return an object  of the class Author' do
       author = Author.new('Someone', 'Somebody')
       expect(author.class).to eq Author
     end
