@@ -13,4 +13,17 @@ class Game < Item
   def can_be_archived?
     super && (Date.today.year - @last_played_at.year) >= 2
   end
+
+  private :can_be_archived?
+
+  def to_json(*args)
+    {
+      'id' => @id,
+      'publish_date' => @publish_date,
+      'archived' => @archived,
+      'multiplayer' => @multiplayer,
+      'last_played_at' => @last_played_at,
+      'author' => @author
+    }.to_json(*args)
+  end
 end
