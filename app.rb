@@ -18,11 +18,11 @@ class App
 
   def show_options
     puts "Please choose an option by entering a number:
-    1 List all books
-    2 List all labels\n    3 List all music albums
-    4 List all games\n    5 List all authors\n    6- List all genres
-    7 Add a book\n    8 Add a music album
-    9 Add a game\n    10 Exit"
+    1- List all books
+    2- List all labels\n    3- List all music albums
+    4- List all games\n    5- List all authors\n    6- List all genres
+    7- Add a book\n    8- Add a music album
+    9- Add a game\n    10- Exit"
   end
 
   def list_items(number)
