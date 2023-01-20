@@ -58,6 +58,8 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/Doheera-kosi/Ruby-Group-Capstone.git
 ```
+### Project Presentation Video
+Presentation [Video](https://drive.google.com/file/d/1SxpI-ht89IDelF_N1gXrpTsSUXnhIvsz/view?usp=sharing)
 
 ### Usage
 
@@ -85,16 +87,17 @@ To run the project, run `ruby <Ruby-Group-Capstone>` in your terminal
 
 ## 👥 Authors3 <a name="authors"></a>
 
-👥 Evans Kupour
-GitHub: @Doheera-kosi
-Twitter: @KupourE
-LinkedIn: @Evans-Kupour
+👥 **Evans Kupour**
+
+- GitHub: [@Evans Kupour](https://github.com/Doheera-kosi)
+- Twitter: [@Evans](https://twitter.com/@KupourE)
+- LinkedIn: [Evans-Kupour](https://www.linkedin.com/in/evans-kupour-1879421a3/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-feature"></a>
 
 - **Set up associations**
 - **Add basic UI**
