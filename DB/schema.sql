@@ -17,7 +17,7 @@ CREATE TABLE author (
 
 CREATE TABLE book (
 	id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-	publisher VARCHAR(120),
+	publisher VARCHAR(125),
 	cover_state VARCHAR(120),
 	publish_date  DATE,
 	archived Boolean,
