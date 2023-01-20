@@ -97,7 +97,7 @@ To run the project, run `ruby <Ruby-Group-Capstone>` in your terminal
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-feature"></a>
 
 - **Set up associations**
 - **Add basic UI**
